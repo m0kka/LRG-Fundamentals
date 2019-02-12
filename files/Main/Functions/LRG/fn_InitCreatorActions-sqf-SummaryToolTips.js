@@ -1,1 +1,0 @@
-NDSummary.OnToolTipsLoaded("File:Main/Functions/LRG/fn_InitCreatorActions.sqf",{36:"<div class=\"NDToolTip TFunction LSQF\"><div class=\"TTSummary\">This functions initializes the creator action system which allows mission creators to execute predefined functions/commands in (or, in general, interact with) the live mission.</div></div>"});
